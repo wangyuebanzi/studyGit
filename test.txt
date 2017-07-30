@@ -2,3 +2,4 @@ test if new a branch in local and then push to remote
 remote will new a branch?
 add one line in anotherbranch
 add one line after clone 
+add one line in studyGit
